@@ -31,8 +31,11 @@ def main():
         if not teams_count.isnumeric():
             error_code = 'ERROR! The count must be integer.'
             continue
-        error_code = ''
         teams_count = int(teams_count)
+        if teams_count < 2:
+            error_code = 'ERROR! Must be at least two teams.'
+            continue
+        error_code = ''
         break
 
     while 1:
