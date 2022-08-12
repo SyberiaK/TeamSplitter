@@ -2,7 +2,7 @@
 
 **TeamSplitter** is a lightweight and fast program that will help in making teams from a group of people for various events or games.
 
-*video*
+![preview](https://us-east-1.tixte.net/uploads/syberiak.is-from.space/TeamSplitter_preview.gif)
 
 ## Building
 
