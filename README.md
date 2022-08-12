@@ -20,5 +20,5 @@ You can easily build the project to executable file by using **pyinstaller**.
 ## Contacts
 
 For any questions or suggestions contact me:
-**Twitter** - [@syberiakey](https://twitter.com/syberiakey)
-**Discord** - SyberiaK.#0396
+- **Twitter** - [@syberiakey](https://twitter.com/syberiakey)
+- **Discord** - SyberiaK.#0396
